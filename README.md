@@ -12,3 +12,5 @@ Windows does not natively include a touch command.  You can use any of the avail
 ```
 
 It will iterate over it argument list, and for each element if it exists, update the file timestamp, else, create it.
+
+Reference: https://stackoverflow.com/questions/30011267/windows-equivalent-of-touch-i-e-the-node-js-way-to-create-an-index-html/30019017#30019017
